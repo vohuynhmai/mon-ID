@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.col-1{
+	width: 8.33%;
+}
+.col-2{
+	width: 16.67%;
+}
+.col-3{
+	width: 25%
+}
+.col-4{
+	width: 33.33%;
+}
+.col-5{
+	width: 41.65%;
+}
+.col-6{
+	width: 50%;
+}
+.col-7{
+	width: 58.31%;
+}
+.col-8{
+	width: 66.64%;
+}
+.col-9{
+	width: 74.97%;
+}
+.col-10{
+	width: 83.33%;
+}
+.col-11	{
+	width: 91.63%;
+}
+.col-12{
+	width: 100%;
+}
+.prl-15{
+	padding:0 9px;
+	box-sizing: border-box;
+}
+.ptb-20{
+	padding:15px 0;
+	box-sizing:border-box;
+}
+.center-horizontal{
+	justify-content: center;
+}
+.prt-25{
+	padding:70px 9px 0 0;
+	box-sizing:border-box;
+}
+.plt-30{
+	padding:70px 0 0 9px;
+	box-sizing:border-box;
+}
+
